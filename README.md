@@ -1,0 +1,1 @@
+This container has been created to ease the build of applications based on docker and docker-compose
